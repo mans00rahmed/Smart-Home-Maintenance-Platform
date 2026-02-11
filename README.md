@@ -101,5 +101,5 @@ between microservices.
 
 ## 👨‍💻 Author
 
-Mansoor Ahmed\
+Team Sigma - TUS
 Microservices & Cloud Computing Enthusiast
