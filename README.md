@@ -93,13 +93,12 @@ between microservices.
 
 -   API Gateway Integration\
 -   Centralized Configuration Server\
--   Docker & Kubernetes Deployment\
 -   CI/CD Pipeline (Jenkins/GitHub Actions)\
--   Monitoring using Prometheus & Grafana
+-   Monitoring
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
-Team Sigma - TUS
-Microservices & Cloud Computing Enthusiast
+Team Sigma - TUS\
+Microservices & Cloud Computing Group 1
